@@ -1,0 +1,22 @@
+.container{
+    height: 300px;
+    background-color: #456379;
+}
+
+
+#Metal\ Gear\ Ray{
+    position: absolute;
+    border-top-right-radius: 1000px;    width: 1000%;
+    top: 1550px;
+    left: 1350px;
+}
+
+#Metal\ Gear\ Rex{
+    position: absolute;
+    border-top-left-radius: 1500px;
+    width: 1000%;
+    top: 1550px;
+    left: 1350px;
+
+
+}
